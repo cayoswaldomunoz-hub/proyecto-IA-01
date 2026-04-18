@@ -1,0 +1,16 @@
+Fecha,Producto,Categoría,Cantidad,Precio_Unitario,Venta_Total,Costo_Unitario,Margen,Cliente_ID,Canal_Venta
+2024-01-05,Laptop Pro 15,Electrónica,2,1200,2400,800,1600,C-101,Online
+2024-01-07,Mouse Inalámbrico,Accesorios,10,25,250,10,150,C-102,Tienda Física
+2024-01-12,Monitor 4K,Electrónica,1,450,450,300,150,C-103,Online
+2024-01-15,Teclado Mecánico,Accesorios,5,80,400,45,175,C-104,Online
+2024-01-20,Laptop Pro 15,Electrónica,1,1200,1200,800,400,C-105,Tienda Física
+2024-02-02,Silla Ergonómica,Muebles,3,250,750,150,300,C-106,Online
+2024-02-05,Mouse Inalámbrico,Accesorios,-2,25,-50,10,-30,C-102,Online
+2024-02-10,Monitor 4K,Electrónica,4,450,1800,300,600,C-107,Online
+2024-02-15,Escritorio Pro,Muebles,2,350,700,200,300,C-108,Tienda Física
+2024-02-20,Teclado Mecánico,Accesorios,8,80,640,45,280,C-109,Online
+2024-03-01,Laptop Pro 15,Electrónica,5,1200,6000,800,2000,C-110,Online
+2024-03-05,Mouse Inalámbrico,Accesorios,15,25,375,10,225,C-111,Tienda Física
+2024-03-10,Audífonos Noise Cancelling,Audio,12,150,1800,90,720,C-112,Online
+2024-03-15,Monitor 4K,Electrónica,0,450,0,300,-300,C-113,Online
+2024-03-20,Silla Ergonómica,Muebles,4,250,1000,150,400,C-114,Tienda Física
